@@ -1,0 +1,5 @@
+# Never commit the actual account backup or wallet data — see README.md
+*.tar.gz
+.chrome-account-stage/
+kwalletd/
+kwalletrc
